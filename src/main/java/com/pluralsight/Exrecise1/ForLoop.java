@@ -1,4 +1,4 @@
-package com.pluralsight;
+package com.pluralsight.Exrecise1;
 
 public class ForLoop {
     public static void main(String[] args) throws InterruptedException{
